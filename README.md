@@ -12,7 +12,7 @@ Fenêtre principale de l'application : elle est affichée après la validation d
 
 L'application utilise des composants d'interface utilisateur standard tels que des boutons, des zones de texte et des listes déroulantes pour permettre à l'utilisateur de configurer les paramètres de l'application.
 
-#Implémentation
+# Implémentation
 L'application est écrite en VB.NET, un langage de programmation orienté objet développé par Microsoft. Elle utilise les composants de la plateforme .NET Framework pour l'interface utilisateur, le traitement des données et la gestion des événements.
 
 La logique de l'application est gérée par des classes de modèle, qui encapsulent les données et les comportements de l'application. Les classes de modèle sont appelées à partir des événements déclenchés par les composants d'interface utilisateur.
@@ -21,5 +21,5 @@ La fenêtre de pop-up d'administration utilise la classe Form pour créer une fe
 
 La fenêtre principale de l'application utilise la classe MainWindow, qui hérite de la classe Window. Elle permet à l'utilisateur de configurer les paramètres de l'application en utilisant des composants d'interface utilisateur standard tels que des boutons, des zones de texte et des listes déroulantes.
 
-##Conclusion
+# Conclusion
 Cette application de simulation de pop-up d'administration montre comment utiliser Visual Studio et VB.NET pour créer une application Windows Desktop simple mais utile. Elle utilise des composants standard pour permettre à l'utilisateur de configurer les paramètres de l'application et est sécurisée en utilisant des variables sécurisées pour stocker les mots de passe.
