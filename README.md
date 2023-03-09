@@ -19,3 +19,8 @@ La fenêtre de pop-up d'administration utilise la classe Form pour créer une fe
 
 # Conclusion
 Cette application de simulation de pop-up d'administration montre comment utiliser Visual Studio et VB.NET pour créer une application Windows Desktop simple mais utile. Elle utilise des composants standard pour permettre à l'utilisateur de configurer les paramètres de l'application et est sécurisée en utilisant des variables sécurisées pour stocker les mots de passe.
+
+
+#Téléchargement 
+
+https://github.com/Plume-Paopedia/Lyric-Admin-Form/blob/master/Lyric%20Admin%20Form.zip
